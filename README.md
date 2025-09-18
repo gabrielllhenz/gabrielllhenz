@@ -32,8 +32,8 @@
 ## 📊 Estatísticas do GitHub:
 <div align="left">
 
-![Gabriel GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gabriellhenz&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellhenz&layout=compact&theme=tokyonight&hide_border=true)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellhenz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellhenz&layout=compact&theme=tokyonight&hide_border=true&count_private=true&token=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)
 
 
 </div>
