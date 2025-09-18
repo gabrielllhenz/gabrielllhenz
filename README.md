@@ -34,6 +34,7 @@
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielllhenz&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllhenz&layout=compact&hide_border=true&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielllhenz&theme=darkhub"/>
 </div>
 
 
