@@ -32,7 +32,7 @@
 ## 📊 Estatísticas do GitHub:
 <div align="left">
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellhenz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&token=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)
+[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllhenz&layout=compact&theme=dark&langs_count=100&hide_border=false)](https://github.com/gabrielllhenz/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellhenz&layout=compact&theme=tokyonight&hide_border=true&count_private=true&token=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)
 
 
