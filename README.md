@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Henrique Noronha Henz</h1>
+<h1 align="left">👋 Olá, eu sou o Gabriel Henrique Noronha Henz</h1>
 
-<p align="center">
+<p align="left">
   💻 Estudante de programação | 📘 Aprendendo <b>C, Java e Desenvolvimento Web</b> <br>
   🚀 Em busca de novos desafios para aprimorar minhas habilidades
 </p>
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Tecnologias que estudo e utilizo:
-<div align="center">
+<div align="left">
 
 ### 🌐 Front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> 
@@ -30,7 +30,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub:
-<div align="center">
+<div align="left">
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellhenz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellhenz&layout=compact&theme=tokyonight&hide_border=true)
