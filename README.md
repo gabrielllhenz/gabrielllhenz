@@ -43,6 +43,9 @@
 ## 🌐 Redes Sociais
 <div align="left">
 
+<br><br>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henz-22a862284/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielllhenz@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielllhenz)  
