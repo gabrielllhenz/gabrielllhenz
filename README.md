@@ -7,6 +7,14 @@
 
 ---
 
+## ⌨️ Texto digitando (Typing Effect)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Desenvolvedor+em+formação;Amante+de+Open+Source;Sempre+em+busca+de+evolução" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🚀 Tecnologias que estudo e utilizo:
 <div align="left">
 
@@ -36,15 +44,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielllhenz&layout=compact&hide_border=true&theme=radical"/>
 </div>
 
+---
 
+## 🐍 Snake das contribuições
+
+<p align="left">
+  <img src="https://github.com/gabrielllhenz/gabrielllhenz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 🌐 Redes Sociais
 <div align="left">
-
-<br><br>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henz-22a862284/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielllhenz@gmail.com)  
