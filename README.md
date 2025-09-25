@@ -52,6 +52,9 @@
 
 </div>
 
+![snake gif](https://github.com/gabrielllhenz/gabrielllhenz/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ✨ _"Se você não sabe para onde ir, qualquer caminho serve!"_ ✨
