@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=0077FF&center=true&width=1000&lines=👋+Olá,+eu+sou+Gabriel+Henrique+Noronha+Henz)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077FF&center=true&width=1000&lines=👋+Olá,+eu+sou+Gabriel+Henrique+Noronha+Henz;💻+Estudante+de+programação;+🚀+Sempre+em+busca+de+evolução)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0077FF&center=true&width=1000&lines=💻+Estudante+de+programação;+🚀+Sempre+em+busca+de+evolução)
 
 
 
