@@ -1,4 +1,4 @@
-<h1 align="left"> Gabriel Henrique Noronha Henz</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&width=1000&lines=👋+Olá,+eu+sou+Gabriel+Henrique+Noronha+Henz;💻+Estudante+de+programação;+🚀+Sempre+em+busca+de+evolução)
 
 <p align="left">
   💻 Estudante de programação | 📘 Aprendendo <b>C, Java e Desenvolvimento Web</b> <br>
@@ -51,6 +51,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielllhenz)  
 
 </div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Minhas_Contribuições)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielllhenz/gabrielllhenz/output/github-contribution-grid-snake-dark.svg">
