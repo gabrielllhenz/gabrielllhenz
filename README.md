@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Gabriel+Henrique+Noronha+Henz;Estudante+de+TI)
+<h1 align="left"> Gabriel Henrique Noronha Henz</h1>
 
 <p align="left">
   💻 Estudante de programação | 📘 Aprendendo <b>C, Java e Desenvolvimento Web</b> <br>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Tecnologias que estudo e utilizo:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Tecnologias)
 <div align="left">
 
 ### 🌐 Front-end
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Estatisticas)
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielllhenz&show_icons=true&hide_border=true&count_private=true&theme=radical"/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🌐 Redes Sociais
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Redes+Sociais)
 <div align="left">
 
 
