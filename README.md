@@ -27,6 +27,9 @@
 
 </div>
 
+![Snake animation](https://github.com/gabrielllhenz/gabrielllhenz/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## 📊 Estatísticas do GitHub:
