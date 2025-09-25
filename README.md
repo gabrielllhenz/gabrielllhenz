@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Gabriel Henrique Noronha Henz</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Gabriel+Henrique+Noronha+Henz;Estudante+de+TI)
 
 <p align="left">
   💻 Estudante de programação | 📘 Aprendendo <b>C, Java e Desenvolvimento Web</b> <br>
@@ -6,8 +6,6 @@
 </p>
 
 ---
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Desenvolvedor+em+formação;Amante+de+Open+Source;Sempre+em+busca+de+evolução)
 
 ## 🚀 Tecnologias que estudo e utilizo:
 <div align="left">
