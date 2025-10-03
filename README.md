@@ -1,5 +1,5 @@
-<h1>Olá, eu sou Gabriel Henrique Noronha Henz</h1>
-<h2>🚀Sempre em busca de evolução</h2>
+<h1 style="color: #1E90FF;">Olá, eu sou Gabriel Henrique Noronha Henz</h1>
+<h2 style="color: #1E90FF;">🚀Sempre em busca de evolução</h2>
 
 
 
